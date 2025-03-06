@@ -1,0 +1,19 @@
+
+    1  ls
+    2  g++
+    3  sudo apt-get update
+    4  sudo apt-get install g++
+    5  LS
+    6  ls
+    7  g++
+    8  vi sumOfThree.cpp
+    9  g++ sumOfThree.cpp
+   10  ls
+   11  ./a.out
+   12  vi sumOfThree.cpp
+   13  g++ sumOfThree.cpp
+   14  ./a.out
+   15  vi sumOfThreeAlt.cpp
+   16  g++ sumOfThreeAlt.cpp
+   17  ./a.out
+   18  history
